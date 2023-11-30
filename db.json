@@ -28,5 +28,67 @@
         "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
         "postedDate": "2023-06-01"
       }
-    ]
-  }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "Dhananjay",
+        "age": 18,
+        "email": "gtatterton0@ehow.com"
+      },
+      {
+        "id": 2,
+        "name": "Nikhil",
+        "age": 53,
+        "email": "gnewbatt1@un.org"
+      },
+      {
+        "id": 3,
+        "name": "somesh",
+        "age": 49,
+        "email": "wwilstead2@tripadvisor.com"
+      },
+      {
+        "id": 4,
+        "name": "shubham",
+        "age": 29,
+        "email": "aproback3@theglobeandmail.com"
+      },
+      {
+        "id": 5,
+        "name": "alok",
+        "age": 31,
+        "email": "rchappelow4@oaic.gov.au"
+      },
+      {
+        "id": 6,
+        "name": "akshay",
+        "age": 22,
+        "email": "kwylie5@miitbeian.gov.cn"
+      },
+      {
+        "id": 7,
+        "name": "arsh",
+        "age": 63,
+        "email": "cpimbley6@nyu.edu"
+      },
+      {
+        "id": 8,
+        "name": "laskshya",
+        "age": 43,
+        "email": "gmanning7@lycos.com"
+      },
+      {
+        "id": 9,
+        "name": "Ashish",
+        "age": 45,
+        "email": "zseward8@oracle.com"
+      },
+      {
+        "id": 10,
+        "name": "Chahat",
+        "age": 20,
+        "email": "cnorssister9@mayoclinic.com"
+ }
+]
+}
